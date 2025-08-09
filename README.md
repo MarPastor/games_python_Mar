@@ -1,57 +1,61 @@
-# Proyecto: Juegos clásicos en Phyton
-Somos "Games3", y fuimos contactadas por una empresa que se dedica a la creación de juegos clásicos, y nos encomendó el desarrollo de dichos juegos en Python, con miras a desarrollar su negocio en la virtualidad.
+# Project: Classic Games in Python
 
-## Estructura del repositorio
+We are "Games3," and we were contacted by a company dedicated to creating classic games. They asked us to develop these games in Python, with a view to developing their business in virtual reality.
+
+---
+
+## Repository structure
 ```
-proyecto-juegos/
+games_python_Mar/
 │
 ├── README.md
 ├── .gitignore
 │
-├── notebooks/
-│   ├── piedra_papel_tijera.ipynb
-│   ├── ahorcado.ipynb
-│   └── preguntas_respuestas.ipynb
+├── 01_notebooks/
+│   ├── game1_hanged_man.ipynb
+│   ├── game2_rock_paper_scissors.ipynb
+│   └── game3_trivia.ipynb
 │
-├── recursos/
-│   ├── inputs.txt
-│   ├── capturas de pantalla
-│   ├── grabaciones de uso de juegos
-│   └── ejemplos_de_juego.md
+├── 02_resources/
+│   ├── final_video_demo.mp4
+│   ├── screenshots
+│   ├── videos
+│   └── trivia.md
 │
-└── presentacion/
-    ├── slides_demo.pdf
-    ├── presentación en pdf
-    └── notas_presentacion.md
+└── 03_presentation/
+    ├── presentation_guide.md
+    ├── presentation-Games3.pdf
+    └── slides_link.md
 ```
+---
 
+## Technology used
 
-## Tecnología usada
 - Phyton 3
-- Librerías: random
+- Library: random
+- Jupyter notebook
 
-## Instrucciones de uso
-1. Clona el repositorio
-2. Ejecuta el notebook correspondiente a cada juego
-3. Sigue las instrucciones en pantalla
+---
 
-## Autoras
+## Instructions for use
+
+1. Clone the repository
+2. Run the notebook for each game
+3. Follow the on-screen instructions
+
+---
+
+## Authors
 - Andreina Teixeira de Franca   https://github.com/AndreinaTeixeira
 - Esther Domínguez Escudero    https://github.com/EstherDE135
 - Luciana Belen Yelicich    https://github.com/lucianayelicich
 - María del Mar Pastor Moreno   https://github.com/MarPastor
 - Paola Sánchez Arbol   https://github.com/PSArb
 
-## Estado del proyecto
-Finalizado, con posibilidad de generar nuevos features
+---
 
-## Capturas de pantalla
-![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.51.33 p. m..png>)
+## Project status
 
-![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.41.54 p. m..png>)
+Completed
 
-![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.41.37 p. m..png>)
-
-![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.50.49 p. m..png>)
-
-![alt text](<02_recursos/Captura de pantalla 2025-06-01 a la(s) 11.51.24 p. m..png>)
+---
